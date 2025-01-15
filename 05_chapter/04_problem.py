@@ -1,0 +1,5 @@
+S = set()
+S.add(20)
+S.add(32.00)
+S.add("273.15")
+print(len(S))
