@@ -1,0 +1,10 @@
+n = []
+n.append(int(input("number: ")))
+print(n)
+n.append(int(input("number: ")))
+print(n)
+n.append(int(input("number: ")))
+print(n)
+n.append(int(input("number: ")))
+print(n)
+print("Sum of list: ", sum(n))
