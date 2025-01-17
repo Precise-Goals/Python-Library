@@ -1,0 +1,7 @@
+Faraday's #####s of electromagnetic induction are two fundamental #####s ##### describe how electric currents and magnetic fields interact. Here they are:
+
+Faraday's First #####
+Faraday's First ##### of Electromagnetic Induction states ##### a change in the magnetic environment of a coil of wire will induce an electromotive force (emf) in the coil. This induced emf is proportional to the rate of change of the magnetic flux.
+
+Faraday's Second #####
+Faraday's Second ##### of Electromagnetic Induction states ##### the magnitude of the induced emf in a coil is directly proportional to the rate of change of magnetic flux through the coil.

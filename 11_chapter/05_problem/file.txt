@@ -1,0 +1,7 @@
+#### laws #### electromagnetic induction are two fundamental laws #### describe how electric currents and magnetic fields interact. Here they are:
+
+#### First ####
+#### First #### #### Electromagnetic Induction states #### a change in the magnetic environment #### a coil #### wire will induce an electromotive force (emf) in the coil. This induced emf is proportional to the rate #### change #### the magnetic flux.
+
+#### Second ####
+#### Second #### #### Electromagnetic Induction states #### the magnitude #### the induced emf in a coil is directly proportional to the rate #### change #### magnetic flux through the coil.
