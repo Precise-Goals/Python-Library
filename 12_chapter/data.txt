@@ -1,0 +1,28 @@
+-----------------------
+Employee id 1: 
+           Name |- Sarthak Tulsidas Patil
+         Salary |- 5600000
+       Language |- Rust, kotlin, Java, C#, React
+         Origin |- Pune, India
+     Experience |- 6
+-----------------------
+Employee id 2: 
+           Name |- Walter White
+         Salary |- 500000
+       Language |- Teacher at LeHigh University
+         Origin |- USA
+     Experience |- 50
+-----------------------
+Employee id 641: 
+           Name |- Sarthak
+         Salary |- 60000
+       Language |- Rust
+         Origin |- India
+     Experience |- 3
+-----------------------
+Employee id 642: 
+           Name |- sarthak
+         Salary |- 32
+       Language |- Just chill guy
+         Origin |- India
+     Experience |- 3

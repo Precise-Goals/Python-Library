@@ -14,7 +14,7 @@ def inp():
     re = input("Enter your guess(1,6): ")
     if not (re.isnumeric()):
         inp()
-    elif (int(re) > 1 and int(re) <= 20):
+    elif (int(re) >= 1 and int(re) <= 6):
         return int(re)
     else:
         inp()
@@ -39,7 +39,7 @@ def admin():
     ch = input("Admin's Choice: ")
     if ch.isnumeric() and ch == "1":
         with open("sc.txt", "w") as f:
-            f.write(random.randint(500, 650))
+            f.write(str(random.randint(500, 650)))
     elif ch.isnumeric() and ch == "2":
         with open("mu.txt", "w") as f:
             f.write("0")
@@ -50,7 +50,7 @@ def admin():
 def isReset():
     if (rd() == 1000):
         with open("sc.txt", 'w') as f:
-            f.write(random.randint(500, 650))
+            f.write(str(random.randint(500, 650)))
     else:
         return rd()
 
